@@ -1,0 +1,11 @@
+# -*- mode: snippet -*-
+# name: head
+# key: head
+# --
+#!/usr/bin/python
+#-*- coding:utf-8 -*-
+#########################################
+# File Name: ${1:filename}
+# Author: F.L.K
+# Mail: nkuflk@gmail.com
+#########################################
