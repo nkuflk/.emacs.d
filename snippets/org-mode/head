@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: head
+# key: head
+# --
+#+STARTUP: showall indent
+
+$0
