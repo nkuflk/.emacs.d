@@ -113,7 +113,7 @@
 (require-package 'regex-tool)
 
 ;;----------------------------------------------------------------------------
-;; emacs snippet
+;; emacs snippets
 ;;----------------------------------------------------------------------------
 (add-to-list 'load-path
 			 "~/.emacs.d/plugins/yasnippet")

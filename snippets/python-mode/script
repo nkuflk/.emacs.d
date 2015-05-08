@@ -2,8 +2,6 @@
 # name: script
 # key: script
 # --
-#!/usr/bin/env python
-
 def main():
     pass
 
