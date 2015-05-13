@@ -1,0 +1,11 @@
+# -*- mode: snippet -*-
+# name: struct_nodecmp
+# key: nc
+# --
+struct NodeCmp
+{
+	bool operator()(const $1 &na, const $1 &nb)
+	{
+		return na$2 < nb$2;
+	}
+};
