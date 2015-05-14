@@ -3,14 +3,16 @@
 # key: head
 # --
 #include <iostream>
+#include <cstring>
 #include <algorithm>
 #include <vector>
 #include <map>
-#include <ext/hash_map>
 #include <string>
 #include <queue>
 using namespace std;
-using namespace __gnu_cxx;
+
+#define MaxN 110
+#define Inf 0xFFFFFFF
 
 int main()
 {
