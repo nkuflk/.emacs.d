@@ -11,7 +11,7 @@
 #include <queue>
 using namespace std;
 
-#define MaxN 110
+#define MaxN 1010
 #define Inf 0xFFFFFFF
 
 int main()
